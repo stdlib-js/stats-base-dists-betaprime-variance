@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-18)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`c77a433`](https://github.com/stdlib-js/stdlib/commit/c77a433d6e33ad5f4879d32211d8cfdb4e5fa2c6) - **feat:** add C implementation for `stats/base/dists/betaprime/variance` [(#3460)](https://github.com/stdlib-js/stdlib/pull/3460) _(by Aayush Khanna, Philipp Burckhardt, stdlib-bot)_
 
