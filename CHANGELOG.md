@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-04-29)
+## 0.3.0 (2026-01-28)
 
 <section class="features">
 
@@ -34,8 +34,9 @@ This release closes the following issue:
 
 <details>
 
--   [`e8dea99`](https://github.com/stdlib-js/stdlib/commit/e8dea9975e4b6fa5b11e6bfbf90f92af904b6786) - **bench:** update random value generation [(#6842)](https://github.com/stdlib-js/stdlib/pull/6842) _(by Harsh)_
--   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`e8dea99`](https://github.com/stdlib-js/stdlib/commit/e8dea9975e4b6fa5b11e6bfbf90f92af904b6786) - **bench:** update random value generation [(#6842)](https://github.com/stdlib-js/stdlib/pull/6842) _(by Harsh Yadav)_
+-   [`b59ce6f`](https://github.com/stdlib-js/stdlib/commit/b59ce6ffab63e0027ac910b7c91a9082edea925e) - **docs:** replace manual `for` loop in examples [(#6831)](https://github.com/stdlib-js/stdlib/pull/6831) _(by Harsh Yadav)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`e61b1de`](https://github.com/stdlib-js/stdlib/commit/e61b1dee3334bacf30d213de5b5f1c7868c0753b) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
@@ -57,7 +58,7 @@ This release closes the following issue:
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
