@@ -69,7 +69,7 @@ when `α > 0` and `β > 2`. Otherwise, the variance is not defined.
 ## Usage
 
 ```javascript
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-variance@v0.3.1-deno/mod.js';
 ```
 
 #### variance( alpha, beta )
@@ -144,7 +144,7 @@ v = variance( 1.0, -1.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-variance@deno/mod.js';
+import variance from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-betaprime-variance@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
