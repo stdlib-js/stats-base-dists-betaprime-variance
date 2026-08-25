@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-07)
+## Unreleased (2026-08-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9dade40`](https://github.com/stdlib-js/stdlib/commit/9dade40e96b09c883e198042e61c1527f2636b2f) - **test:** migrate `stats/base/dists/betaprime/variance` to ULP-based assertions [(#14576)](https://github.com/stdlib-js/stdlib/pull/14576) _(by Athan Reines)_
 -   [`6e257ba`](https://github.com/stdlib-js/stdlib/commit/6e257ba3c4b7378563f97f474f98794949b3dce1) - **chore:** fix copy-paste mistakes [(#13281)](https://github.com/stdlib-js/stdlib/pull/13281) _(by Philipp Burckhardt)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
